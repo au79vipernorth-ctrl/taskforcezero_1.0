@@ -1,0 +1,11 @@
+FastAPI
+SQLAlchemy
+asyncpg
+pgvector
+Pydantic
+python-dotenv
+uvicorn
+pytest
+httpx
+coverage
+factory_boy
